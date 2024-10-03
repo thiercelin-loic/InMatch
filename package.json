@@ -1,0 +1,13 @@
+{
+  "name": "inmatch",
+  "version": "1.0.0",
+  "description": "A functional TypeScript library to simulate a basketball game action by action.",
+  "main": "dist/index.js",
+  "scripts": {
+    "build": "tsc",
+    "start": "node dist/index.js"
+  },
+  "devDependencies": {
+    "typescript": "^4.8.0"
+  }
+}
